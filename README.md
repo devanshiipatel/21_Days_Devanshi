@@ -24,4 +24,10 @@ Track: Natural Language Processing (NLP)
   <li><b> Day 3 </b> <br>
     Practiced EDA on text data
   </li>
+  <li><b> Day 4 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=h-LGjJ_oANs </li>
+    </ol>
+  </li>
 </ul>
