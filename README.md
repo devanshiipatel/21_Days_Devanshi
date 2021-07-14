@@ -34,6 +34,7 @@ Track: Natural Language Processing (NLP)
     Watched YouTube video: 
     <ol>
       <li> https://www.youtube.com/watch?v=fA5TSFELkC0 </li>
+      <li> https://www.youtube.com/watch?v=O2L2Uv9pdDA </li>
     </ol>
   </li>
 </ul>
