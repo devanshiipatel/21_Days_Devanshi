@@ -50,6 +50,7 @@ Track: Natural Language Processing (NLP)
     <ol>
       <li> https://www.youtube.com/watch?v=CPl9XdIFbYA </li>
       <li> https://www.youtube.com/watch?v=u8utlK_c5C8 </li>
+      <li> https://www.youtube.com/watch?v=6EXP2-d_xQA </li>
     </ol>
   </li>
 </ul>
