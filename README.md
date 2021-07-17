@@ -53,4 +53,10 @@ Track: Natural Language Processing (NLP)
       <li> https://www.youtube.com/watch?v=6EXP2-d_xQA </li>
     </ol>
   </li>
+  <li><b> Day 7 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=mDaEfPgwtgo </li>
+    </ol>
+  </li>
 </ul>
