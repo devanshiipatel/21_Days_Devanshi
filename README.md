@@ -57,6 +57,7 @@ Track: Natural Language Processing (NLP)
     Watched YouTube video: 
     <ol>
       <li> https://www.youtube.com/watch?v=mDaEfPgwtgo </li>
+      <li> Practiced text preprocessing and EDA on text data </li>
     </ol>
   </li>
 </ul>
