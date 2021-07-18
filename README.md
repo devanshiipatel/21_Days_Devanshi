@@ -60,4 +60,10 @@ Track: Natural Language Processing (NLP)
       <li> Practiced text preprocessing and EDA on text data </li>
     </ol>
   </li>
+  <li><b> Day 9 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> Practiced text preprocessing and EDA on text data </li>
+    </ol>
+  </li>
 </ul>
