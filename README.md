@@ -57,8 +57,8 @@ Track: Natural Language Processing (NLP)
     Watched YouTube video: 
     <ol>
       <li> https://www.youtube.com/watch?v=mDaEfPgwtgo </li>
-      <li> Practiced text preprocessing and EDA on text data </li>
     </ol>
+    Practiced text preprocessing and EDA on text data
   </li>
   <li><b> Day 9 </b> <br>
     <ol>
@@ -74,6 +74,10 @@ Track: Natural Language Processing (NLP)
     Watched YouTube video: 
     <ol>
       <li> https://www.youtube.com/watch?v=rdkIOM78ZPk </li>  
+    </ol>
+    Read blog: 
+    <ol>
+      <li> https://colah.github.io/posts/2015-08-Understanding-LSTMs/ </li>  
     </ol>
   </li>
 </ul>
