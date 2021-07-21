@@ -61,14 +61,10 @@ Track: Natural Language Processing (NLP)
     Practiced text preprocessing and EDA on text data
   </li>
   <li><b> Day 9 </b> <br>
-    <ol>
-      <li> Practiced text preprocessing and EDA on text data </li>
-    </ol>
+    Practiced text preprocessing and EDA on text data
   </li>
   <li><b> Day 10 </b> <br>
-    <ol>
-      <li> https://github.com/devanshiipatel/Fake-News-Classification </li>  
-    </ol>
+    https://github.com/devanshiipatel/Fake-News-Classification
   </li>
   <li><b> Day 11 </b> <br>
     Watched YouTube video: 
