@@ -80,4 +80,10 @@ Track: Natural Language Processing (NLP)
       <li> https://colah.github.io/posts/2015-08-Understanding-LSTMs/ </li>  
     </ol>
   </li>
+  <li><b> Day 12 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=MXPh_lMRwAI </li>
+    </ol>
+  </li>
 </ul>
