@@ -82,4 +82,7 @@ Track: Natural Language Processing (NLP)
       <li> https://www.youtube.com/watch?v=MXPh_lMRwAI </li>
     </ol>
   </li>
+  <li><b> Day 13 </b> <br>
+    Started with Sentiment Analysis on Women E-commerce dataset.
+  </li>
 </ul>
