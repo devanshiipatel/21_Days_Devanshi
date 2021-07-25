@@ -91,4 +91,7 @@ Track: Natural Language Processing (NLP)
   <li><b> Day 15 </b> <br>
     https://github.com/devanshiipatel/EDA-Sentiment-Analysis-on-Women-E-Commerce-Dataset
   </li>
+  <li><b> Day 16 </b> <br>
+    Watched YouTube video
+  </li>
 </ul>
