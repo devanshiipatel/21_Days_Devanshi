@@ -102,5 +102,9 @@ Track: Natural Language Processing (NLP)
     <ol>
       <li> https://www.youtube.com/watch?v=TsXR7_vtusQ </li>
     </ol>
+     Read blog: 
+    <ol>
+      <li> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/ </li>  
+    </ol>
   </li>
 </ul>
