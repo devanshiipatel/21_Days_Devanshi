@@ -93,5 +93,14 @@ Track: Natural Language Processing (NLP)
   </li>
   <li><b> Day 16 </b> <br>
     Watched YouTube video
+    <ol>
+      <li> https://www.youtube.com/watch?v=pO_6Jk0QtKw </li>
+    </ol>
+  </li>
+   <li><b> Day 17 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=TsXR7_vtusQ </li>
+    </ol>
   </li>
 </ul>
