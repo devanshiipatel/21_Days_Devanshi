@@ -107,4 +107,10 @@ Track: Natural Language Processing (NLP)
       <li> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/ </li>  
     </ol>
   </li>
+  <li><b> Day 18 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=H6du_pfuznE </li>
+    </ol>
+  </li>
 </ul>
