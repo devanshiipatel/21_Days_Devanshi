@@ -113,4 +113,10 @@ Track: Natural Language Processing (NLP)
       <li> https://www.youtube.com/watch?v=H6du_pfuznE </li>
     </ol>
   </li>
+  <li><b> Day 19 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=D-a6dwXzJ6s </li>
+    </ol>
+  </li>
 </ul>
