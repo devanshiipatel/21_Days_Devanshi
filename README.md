@@ -117,6 +117,7 @@ Track: Natural Language Processing (NLP)
     Watched YouTube video: 
     <ol>
       <li> https://www.youtube.com/watch?v=D-a6dwXzJ6s </li>
+      <li> https://www.youtube.com/watch?v=atYPhweJ7ao </li>
     </ol>
   </li>
 </ul>
