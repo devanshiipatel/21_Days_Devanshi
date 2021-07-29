@@ -120,4 +120,10 @@ Track: Natural Language Processing (NLP)
       <li> https://www.youtube.com/watch?v=atYPhweJ7ao </li>
     </ol>
   </li>
+  <li><b> Day 20 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=xLKSMaYp2oQ </li>
+    </ol>
+  </li>
 </ul>
