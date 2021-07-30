@@ -127,4 +127,10 @@ Track: Natural Language Processing (NLP)
       <li> https://www.youtube.com/watch?v=tOuXgORsXJ4 </li>
     </ol>
   </li>
+  <li><b> Day 21 </b> <br>
+    Watched YouTube video: 
+    <ol>
+      <li> https://www.youtube.com/watch?v=jCrgzJlxTKg </li>
+    </ol>
+  </li>
 </ul>
